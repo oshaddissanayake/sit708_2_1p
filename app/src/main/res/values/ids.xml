@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sourceUnitSpinner" type="id" />
+    <item name="destinationUnitSpinner" type="id" />
+    <item name="valueEditText" type="id" />
+    <item name="resultTextView" type="id" />
+</resources>
